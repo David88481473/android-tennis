@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TennisLive</string>
+    <string name="ranking">WTA Ranking</string>
+    <string name="hello">Hello Ranking</string>
 </resources>
