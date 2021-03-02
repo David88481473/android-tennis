@@ -1,10 +1,12 @@
-package com.android.tennislive;
+package com.android.tennislive.activities;
 
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+
+import com.android.tennislive.R;
 
 public class MainActivity extends Activity implements View.OnClickListener {
 
